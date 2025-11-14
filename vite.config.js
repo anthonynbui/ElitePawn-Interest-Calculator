@@ -7,6 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(), // 👈 this is what actually runs Tailwind
   ],
-    base: "/ElitePawn-Interest-Calculator"
+    base: "/ElitePawn-Interest-Calculator/"
 
 });
